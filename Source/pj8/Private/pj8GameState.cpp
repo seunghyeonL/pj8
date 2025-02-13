@@ -15,7 +15,7 @@ Apj8GameState::Apj8GameState()
 	// Score = 0;
 	SpawnedCoinCount = 0;
 	CollectedCoinCount = 0;
-	WaveDuration = 3.0f;
+	WaveDuration = 30.0f;
 	WaitingDuration = 5.0f;
 	CurrentLevelIndex = 0;
 	MaxLevelNum = 1;
